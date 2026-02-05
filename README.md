@@ -47,7 +47,7 @@ flexiui-chatbot/
 ### Prerequisites
 
 - Python 3.8+
-- Claude API key from [Anthropic Console](https://console.anthropic.com/)
+- Groq API key from [Groq Console](https://console.groq.com/)
 
 ### Installation
 
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 3. Create `.env` file in project root
 ```env
-CLAUDE_API_KEY=your-api-key-here
+GROQ_API_KEY=your-groq-api-key-here
 ```
 
 4. Run the application
@@ -132,7 +132,7 @@ fetch('/api/chat', {
 
 Create a `.env` file:
 ```env
-CLAUDE_API_KEY=your-claude-api-key-here
+GROQ_API_KEY=your-groq-api-key-here
 ```
 
 ⚠️ **Never commit `.env` to version control**
