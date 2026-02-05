@@ -53,7 +53,7 @@ flexiui-chatbot/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/FlexiUI_AI_Smart_UI_Generator.git
+git clone https://github.com/Shrutishivankar/flexiui-ai-smart-ui-generator.git
 cd flexiui-chatbot
 ```
 
