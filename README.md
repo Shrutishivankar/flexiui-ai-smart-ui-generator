@@ -1,4 +1,4 @@
-# FlexiUI AI Smart UI Generator 🚀
+# FlexiUI AI-Smart UI Generator 🚀
 
 An AI-powered smart UI generator that dynamically creates UI components based on user prompts. Built as a foundation for low-code/no-code website building platforms.
 
