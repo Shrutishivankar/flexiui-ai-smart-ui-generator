@@ -1,0 +1,12 @@
+# flask - Web framework (makes our API)
+# flask-cors - Allows frontend to talk to backend
+# python-dotenv - Reads .env file
+# groq - Groq AI library
+# requests - Makes HTTP requests
+
+flask==3.0.0
+flask-cors==4.0.0
+python-dotenv==1.0.0
+groq==0.4.1
+requests==2.31.0
+flask-sqlalchemy==3.1.1
